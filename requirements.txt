@@ -7,4 +7,3 @@ requests
 opencv-python
 Flask
 Gunicorn
-gevent
