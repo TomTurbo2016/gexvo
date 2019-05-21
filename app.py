@@ -12,8 +12,7 @@ import stylize2
 import upscale2
 import imageResize2
 #import watermark
-import gevent.monkey
-gevent.monkey.patch_all()
+
 
 ####~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~To-Be-Edited~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
 START_URL = 'https://gexvo.onrender.com'
